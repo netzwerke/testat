@@ -1,0 +1,46 @@
+id,name,type,party,age,sex
+Platzeck,Matthias Platzeck,1,3,4,1
+Pofalla,Ronald Pofalla,1,1,4,1
+Praetorius,Barbara Praetorius,1,6,6,2
+Tillich,Stanislaw Tillich,1,1,4,1
+Hasselfeldt,Gerda Hasselfeldt,1,2,4,2
+Kampeter,Steffen Kampeter,1,1,3,1
+Kapferer,Stefan Kapferer,1,5,3,1
+Kempf,Dieter Kempf,1,6,4,1
+Nemat,Claudia Nemat,1,6,3,2
+Reiche,Katherina Reiche,1,1,2,2
+Roestel,Gunda Roestel,1,4,3,2
+Schweitzer,Eric Schweitzer,1,6,3,1
+Grothus,Antje Grothus,1,6,3,2
+Wodtke,Hannelore Wodtke,1,1,6,2
+Herntier,Christine Herntier,1,6,4,2
+Kreuzberg,Michael Kreuzberg,1,1,4,1
+Priggen,Reiner Priggen,1,4,4,1
+Vassiliadis,Michael Vassiliadis ,1,3,4,1
+Scheidt,Andreas Scheidt,1,3,4,1
+Koerzell,Stefan Koerzell,1,3,3,1
+Kaiser,Martin Kaiser,1,6,3,1
+Weiger,Hubert Weiger,1,6,5,1
+Niebert,Kai Niebert,1,6,2,1
+Allmendinger,Jutta Allmendinger,1,6,4,2
+Matthes,Felix Matthes,1,6,3,1
+Schellnhuber,Hans Joachim Schellnhuber,1,6,4,1
+Niebuhr,Annekathrin Niebuhr,1,6,6,2
+Wehrspohn,Ralf Wehrspohn,1,6,2,1
+Laemmel,Andreas Laemmel,1,1,4,1
+Lenz,Andreas Lenz,1,2,1,1
+Miersch,Matthias Miersch,1,3,3,1
+Politik,Politik,2,6,6,3
+Verband,Verband,2,6,6,3
+Gewerkschaft,Gewerkschaft,2,6,6,3
+Umweltschutz,Umweltschutz,2,6,6,3
+Industrie,Industrie,2,6,6,3
+Energieunternehmen,Energieunternehmen,2,6,6,3
+Wissenschaft,Wissenschaft,2,6,6,3
+Regionalvertreter,Regionalvertreter,2,6,6,3
+CDU,CDU,2,6,6,3
+CSU,CSU,2,6,6,3
+SPD,SPD,2,6,6,3
+Gruene,Gruene,2,6,6,3
+FDP,FDP,2,6,6,3
+andere,andere,2,6,6,3
